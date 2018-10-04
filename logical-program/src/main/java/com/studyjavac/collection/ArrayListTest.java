@@ -6,6 +6,7 @@ public class ArrayListTest {
 
 		System.out.println("Hello");
 		System.out.println("good night");
+		System.out.println("sweet dreams");
 	}
 
 }
